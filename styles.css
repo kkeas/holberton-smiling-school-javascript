@@ -235,7 +235,7 @@
   padding-left: var(--quotes-arrows-pad);
 }
 
-@media screen and (max-width: 991px) {
+/* @media screen and (max-width: 991px) {
   .quotes .carousel-item img {
     margin-left: 80px;
   }
@@ -280,7 +280,7 @@
     padding: 0px;
     padding-top: 24px;
   }
-}
+} */
 
 /* POPULAR SECTION  */
 
